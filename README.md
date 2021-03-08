@@ -14,6 +14,15 @@ windows:
   SpringScan_windows_386.exe
   SpringScan_windows_amd64.exe  
 ```
+## 插件
+
+*  cve-2016-4977
+*  cve-2019-3799
+*  cve-2020-5405
+*  cve-2020-5410
+*  spring unauth
+
+
 ## 使用
 
 ```
